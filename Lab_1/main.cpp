@@ -1,6 +1,6 @@
 
 //
-//  testsergay.cpp
+//  testsergey.cpp
 //  algoritmday
 //
 //  Created by Игорь Герасимов on 09.02.2020.
